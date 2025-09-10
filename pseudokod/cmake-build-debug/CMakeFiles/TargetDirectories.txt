@@ -1,0 +1,3 @@
+/Users/michalina.wolna/CLionProjects/pseudokod/cmake-build-debug/CMakeFiles/pseudokod.dir
+/Users/michalina.wolna/CLionProjects/pseudokod/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michalina.wolna/CLionProjects/pseudokod/cmake-build-debug/CMakeFiles/rebuild_cache.dir
